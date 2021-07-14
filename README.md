@@ -1,6 +1,8 @@
 # Solidworks_Designs
 
-Design of a chainsaw using as a support a physical machine. The componentes were measured using a paquimeter and a coarse representation of each one was done while learning to use SoliWorks. Besides the geometric representations, an animation of the mechanism was done. 
+Design of a chainsaw using as a support a physical chainsaw. Its componentes were measured using a paquimeter and a coarse representation of each one was done while learning to use SoliWorks. 
+
+Besides the geometric representations, an animation of the mechanism was done. 
 
 ![Transparência](https://user-images.githubusercontent.com/62217530/125616818-811fdb5c-6f38-4ec9-bdfc-2223962fdf6e.JPG)
 
