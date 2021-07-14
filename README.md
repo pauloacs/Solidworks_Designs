@@ -6,4 +6,5 @@ Design of a chainsaw using as a support a physical machine. The componentes were
 
 An explosion view of the whole mechanism is represented in the following image.
 
+![Untitled](https://user-images.githubusercontent.com/62217530/125617126-599fb569-eec5-4eec-a4e4-07cf49528f94.jpg)
 
